@@ -1,1 +1,1 @@
-E-Commerce Website Working Prototype
+ Working prototype for the E-Commerce platform designed for D2C Design Heist
