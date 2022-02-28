@@ -1,8 +1,12 @@
+*{
+    font-family: Avenir, sans-serif;
+}
+
 nav{
     height: 10vh;
     background-color: #3E3D3D;
     --navcolor:#96CEB4;
-    
+    font-family: Avenir, sans-serif;
 }
 
 .links{
