@@ -6,3 +6,7 @@
 
 /* Page specific rules */
 @import url(my-cart.css);
+*{
+  margin: 0px;
+  padding: 0px;
+}
